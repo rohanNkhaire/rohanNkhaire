@@ -28,7 +28,7 @@ I implemented Linear Matrix Inequality based on Model Predictive Control for an 
 ### [ADAS for class 8 long haul trucks](https://github.com/rohanNkhaire/ADAS_class8_trucks) ###
 I ran simulations for crash tests for class 8 trucks according to NHTSA's crash data. Then created ADAS algorithms so that the trucks can avoid collisions.
 
-### [A bridge for Carla and Autowae Universe](https://github.com/rohanNkhaire/carla_autoware_bridge) ###
+### [A bridge for Carla and Autoware Universe](https://github.com/rohanNkhaire/carla_autoware_bridge) ###
 I created a bridge to run simulations with Carla and Autoware Universe.
 
 
