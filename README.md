@@ -11,7 +11,7 @@ I am working as a Graduate Service Assistant at [BELIV](https://faculty.engineer
 
 # Projects #
 ### [SimplyAutonomus](https://github.com/rohanNkhaire/SimplyAutonomous) ###
-I am implementing my own software stack for autonomous vehicle based on ROS2 and inspiried by Autoware.
+I am implementing my own software stack for autonomous vehicle based on ROS2 and inspired by Autoware.
 
 ### [Digital Twin and Virtual Reality](https://github.com/rohanNkhaire/carla_autoware_bridge) ###
 A Digital Twin of the BELIV lab's autonomous vehicle and virtual reality in the sense that the software stack on real vehicle can respond to the virtual objects in the simulator.
