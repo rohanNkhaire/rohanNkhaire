@@ -13,6 +13,12 @@ I am working as a Graduate Service Assistant at [BELIV](https://faculty.engineer
 ### [SimplyAutonomous](https://github.com/rohanNkhaire/SimplyAutonomous) ###
 I am implementing my own software stack for autonomous vehicle based on ROS2 and inspired by Autoware.
 
+### [Reinforcement Learning with Active Human Involvement](https://github.com/rohanNkhaire/PVP_CARLA)
+I am Implementing a Deep Reinforcement Learning Autonomous Driving agent that takes help from human demostrations to learn.
+
+### [Motion Planning and Control of Mobile Robots](https://github.com/rohanNkhaire/Motion_Planning_Control_Mobile_Robots)
+I implemented navigation algorithm using two approaches- Map-less and Map to move a mobile robot to a destination.
+
 ### [Digital Twin and Virtual Reality](https://github.com/rohanNkhaire/carla_autoware_bridge) ###
 A Digital Twin of the BELIV lab's autonomous vehicle and virtual reality in the sense that the software stack on real vehicle can respond to the virtual objects in the simulator.
 
