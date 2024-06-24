@@ -10,34 +10,46 @@ My field of Interest lies in providing solutions to problems in Perception, Loca
 I am working as a Graduate Service Assistant at [BELIV](https://faculty.engineering.asu.edu/jzhao/) lab at Arizona State University. I am currently spearheading the [Digital Twin and Virtual Reality Project](https://github.com/rohanNkhaire/carla_autoware_bridge) here.
 
 # Projects #
-### [SimplyAutonomous](https://github.com/rohanNkhaire/SimplyAutonomous) ###
-I am implementing my own software stack for autonomous vehicle based on ROS2 and inspired by Autoware.
+
+## Reinforcement learning ##
 
 ### [Reinforcement Learning with Active Human Involvement](https://github.com/rohanNkhaire/PVP_CARLA)
 I am Implementing a Deep Reinforcement Learning Autonomous Driving agent that takes help from human demostrations to learn.
 
-### [Motion Planning and Control of Mobile Robots](https://github.com/rohanNkhaire/Motion_Planning_Control_Mobile_Robots)
-I implemented navigation algorithm using two approaches- Map-less and Map to move a mobile robot to a destination.
-
-### [Digital Twin and Virtual Reality](https://github.com/rohanNkhaire/carla_autoware_bridge) ###
-A Digital Twin of the BELIV lab's autonomous vehicle and virtual reality in the sense that the software stack on real vehicle can respond to the virtual objects in the simulator.
-
 ### [Deep Reinforcement Learning for autonomous vehicle](https://github.com/rohanNkhaire/RL_SB3_carla) ###
 I used stable-baselines3 to train an agent to follow a trajectory autonomously using RGB/Semantic sensor as input.
+
+### Deep Learning/Machine Learning ###
 
 ### [Driver Monitoring System for Embedded Devices](https://github.com/rohanNkhaire/driver_monitoring_system) ###
 I trained a CNN using transfer learning then deployed it on Arduino Nano BLE and Beaglebone Black.
 
-### [Linear Matrix Inequality solution to Lateral Control](https://github.com/rohanNkhaire/LMI-MPC_lateral_control) ###
-I implemented Linear Matrix Inequality based on Model Predictive Control for an autonomous vehicle to follow a trajectory.
+### Planning and Controls ###
 
-### [ADAS for class 8 long haul trucks](https://github.com/rohanNkhaire/ADAS_class8_trucks) ###
-I ran simulations for crash tests for class 8 trucks according to NHTSA's crash data. Then created ADAS algorithms so that the trucks can avoid collisions.
+### [SimplyAutonomous](https://github.com/rohanNkhaire/SimplyAutonomous) ###
+I am implementing my own software stack for autonomous vehicle based on ROS2 and inspired by Autoware.
+
+### [Motion Planning and Control of Mobile Robots](https://github.com/rohanNkhaire/Motion_Planning_Control_Mobile_Robots)
+An implementation of navigation algorithm using two approaches- Map-less and Map to move a mobile robot to a destination.
+
+### [Linear Matrix Inequality solution to Lateral Control](https://github.com/rohanNkhaire/LMI-MPC_lateral_control) ###
+An implementation of Linear Matrix Inequality based on Model Predictive Control for an autonomous vehicle to follow a trajectory.
+
+### AR/VR ###
+
+### [Digital Twin and Virtual Reality](https://github.com/rohanNkhaire/carla_autoware_bridge) ###
+A Digital Twin of the BELIV lab's autonomous vehicle and virtual reality in the sense that the software stack on real vehicle can respond to the virtual objects in the simulator.
+
+### Misc ###
+
+### [Groundtruth Bird-Eye View Maps of CARLA](https://github.com/rohanNkhaire/CARLA_BEV_maps)
+Scripts to get groundtruth CARLA town map information (drivable area, sidewalks, crosswalks, etc)
 
 ### [A bridge for Carla and Autoware Universe](https://github.com/rohanNkhaire/carla_autoware_bridge) ###
 I created a bridge to run simulations with Carla and Autoware Universe.
 
-
+### [ADAS for class 8 long haul trucks](https://github.com/rohanNkhaire/ADAS_class8_trucks) ###
+I ran simulations for crash tests for class 8 trucks according to NHTSA's crash data. Then created ADAS algorithms so that the trucks can avoid collisions.
 
 # Connect with me #
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rohan-khaire/)
