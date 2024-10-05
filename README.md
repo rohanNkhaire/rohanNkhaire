@@ -42,6 +42,9 @@ A Digital Twin of the BELIV lab's autonomous vehicle and virtual reality in the 
 
 ### Misc ###
 
+### [Pick and Place using gazebo Harmonic in Jazzy](https://github.com/rohanNkhaire/ur5_pick_and_place.git)
+I created a pick and place environment in Gazebo harmonic with ROS 2. I also created a Gazebo plugin to attach objects to the gripper on contact.
+
 ### [Groundtruth Bird-Eye View Maps of CARLA](https://github.com/rohanNkhaire/CARLA_BEV_maps)
 Scripts to get groundtruth CARLA town map information (drivable area, sidewalks, crosswalks, etc)
 
