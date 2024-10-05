@@ -9,7 +9,14 @@ My field of Interest lies in providing solutions to problems in Perception, Loca
 # Professional Experience #
 I am working as a Graduate Service Assistant at [BELIV](https://faculty.engineering.asu.edu/jzhao/) lab at Arizona State University. I am currently spearheading the [Digital Twin and Virtual Reality Project](https://github.com/rohanNkhaire/carla_autoware_bridge) here.
 
+
+
 # Projects #
+
+## Framework for Autonomy Stack based on ROS2 ##
+
+### [SimplyAutonomous](https://github.com/rohanNkhaire/SimplyAutonomous) ###
+I am implementing my own software stack for autonomous vehicle based on ROS2 and inspired by Autoware.
 
 ## Reinforcement learning ##
 
@@ -25,9 +32,6 @@ I used stable-baselines3 to train an agent to follow a trajectory autonomously u
 I trained a CNN using transfer learning then deployed it on Arduino Nano BLE and Beaglebone Black.
 
 ### Planning and Controls ###
-
-### [SimplyAutonomous](https://github.com/rohanNkhaire/SimplyAutonomous) ###
-I am implementing my own software stack for autonomous vehicle based on ROS2 and inspired by Autoware.
 
 ### [Motion Planning and Control of Mobile Robots](https://github.com/rohanNkhaire/Motion_Planning_Control_Mobile_Robots)
 An implementation of navigation algorithm using two approaches- Map-less and Map to move a mobile robot to a destination.
